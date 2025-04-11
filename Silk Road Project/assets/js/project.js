@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:631,
+to:720,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -47070,14 +47070,14 @@ resources:['dr/03149.svg','dr/03226.svg','dr/03917.jpg','dr/04747.jpg','dr/04749
 ,{
 slideID:4,
 ResourceList:{
-resources:['dr/0572.svg','dr/06997.png','dr/07219.jpg','dr/07222.jpg','dr/07225.jpg','dr/07228.jpg','dr/07268.jpg']
+resources:['dr/05392.svg','dr/05405.svg','dr/0572.svg','dr/06170.svg','dr/06997.png','dr/07219.jpg','dr/07222.jpg','dr/07225.jpg','dr/07228.jpg','dr/07268.jpg']
 }
 
 }
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/03873.svg','dr/03895.svg','dr/0572.svg','dr/07570.png','dr/07601.png','dr/07725.png','dr/07849.png','dr/07973.png','dr/08097.png','dr/08221.png']
+resources:['dr/03873.svg','dr/03895.svg','dr/0572.svg','dr/07570.png','dr/07601.png','dr/07725.png','dr/07849.png','dr/07973.png','dr/08097.png','dr/08221.png','dr/08337.svg']
 }
 
 }
